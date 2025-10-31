@@ -57,6 +57,8 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 
 🎓 Advanced degree required (Master's, PhD, MBA)
 
+☑️ Applied to company
+
 
 ---
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -130,7 +132,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>0d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
+<td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company"> ☑️ 🔥 Amazon</a></strong></td>
 <td>Silicon & AI Systems Innovation</td>
 <td>Austin, TX</br>Seattle, WA</br>Cupertino, CA</td>
 <td><a href="https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
